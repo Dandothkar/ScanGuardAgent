@@ -1,0 +1,7 @@
+pandas
+pydantic
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-core
