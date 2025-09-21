@@ -1,0 +1,10 @@
+USER:
+"Reminder: Your electricity bill is due on 25th. Please pay via the official app."
+ASSISTANT:
+{{
+  "label": "Not Spam",
+  "reasons": ["Neutral tone", "Directs to official app only"],
+  "risk_score": 10,
+  "red_flags": [],
+  "suggested_action": "If relevant, pay via the trusted official app or website."
+}}

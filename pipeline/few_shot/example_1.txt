@@ -1,0 +1,10 @@
+USER:
+"URGENT: Your account will be suspended today unless you verify at http://secure-bank-verify.co"
+ASSISTANT:
+{{
+  "label": "Spam",
+  "reasons": ["Urgent threat to suspend account", "Suspicious link asks for verification"],
+  "risk_score": 92,
+  "red_flags": ["http://secure-bank-verify.co", "account suspension threat"],
+  "suggested_action": "Do not click the link; report and delete the message."
+}}
