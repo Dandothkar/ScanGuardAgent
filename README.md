@@ -49,3 +49,5 @@ streamlit run app.py
 ```
 
 Your browser should open a new tab with the running application.
+
+![alt text](image.png)
